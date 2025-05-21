@@ -24,5 +24,8 @@ docker-compose build to build images docker compose -d up to start containers in
 1-8 Document your docker-compose file.  
 See the document docker compose on the repository
 
-The links for the docker images on dicker hub :  
+The link for the docker images on docker hub :  
 https://hub.docker.com/u/francoisthievon
+
+The link for the second repository :
+https://github.com/FrancisLabrele/tp-devops-correction-docker.git
