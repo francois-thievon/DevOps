@@ -22,7 +22,13 @@ Docker compose is important because it allows us to define and manage multiples 
 docker-compose build to build images docker compose -d up to start containers in detached mode
 
 1-8 Document your docker-compose file.  
-See the document docker compose on the repository
+See the document docker compose on the repository  
+
+1-9 Document your publication commands and published images in dockerhub.  
+Done  
+
+1-10 Why do we put our images into an online repo?  
+So that we can pull them on our server with a simple internet connexion
 
 The link for the docker images on docker hub :  
 https://hub.docker.com/u/francoisthievon
